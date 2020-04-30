@@ -35,7 +35,7 @@ All data is returned as JSON. The endpoints are implemented in `src/index.php`.
 
 The attached System Diagram illustrates a basic scalable distributed system.
 
-![System Diagram]()
+![System Diagram](https://github.com/afeique/job-processor/blob/master/SystemDiagram.png)
 
 This design can be further scaled by:
 - Separating the API servers into read/write servers
