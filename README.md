@@ -1,4 +1,4 @@
-# Glu Technical Assessment
+# Technical Assessment
 
 ## Requirements
 
